@@ -1,10 +1,10 @@
-## Leonardo Molinaro's Github 
+# Leonardo Molinaro's Github 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lmolinaro01&theme=dracula&show_icons=true&hide=contribs&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lmolinaro01&theme=dracula&show_icons=true&hide=contribs&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=dracula" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=dracula" />
 </a>
 
 ## Linguagens de Mais Domínio:
