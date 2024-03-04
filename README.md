@@ -1,4 +1,4 @@
-### | Leonardo Molinaro's Github | 
+## Leonardo Molinaro's Github 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,6 +18,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
+<br>
   
 </div>
