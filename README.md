@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/anuraghazra/top-langs">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=dracula&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=dracula&layout=compact" />
 
 
 ## Linguagens de Mais Domínio:
