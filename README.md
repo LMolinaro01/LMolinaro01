@@ -1,6 +1,6 @@
 ## Leonardo Molinaro's Github 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Linguagens de Mais Domínio:
