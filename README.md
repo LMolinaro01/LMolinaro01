@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=dracula&layout=compact" />
 
 
-## Linguagens de Mais Domínio:
+## Linguagens de Maior Domínio:
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
