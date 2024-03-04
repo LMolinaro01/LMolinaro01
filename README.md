@@ -4,7 +4,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lmolinaro01&theme=dracula&hide=contribs&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=false&theme=dracula" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=dracula" />
 </a>
 
 ## Linguagens de Mais Domínio:
