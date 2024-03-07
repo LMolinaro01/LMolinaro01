@@ -1,14 +1,15 @@
-# Leonardo Molinaro's Github 
+<h1 align = "center">Leonardo Molinaro's Github </h1>
 
 ## Linguagens de Maior Domínio:
 
 <div style="display: inline_block"><br>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false">    <img  alt="LMolinaro01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LMolinaro01?cardType=github&theme=ocean-dark&preferLogin=false" align = "right" width= "500px" height = "200px"/> </a>
   <img align="center" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="55" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 
 
-## | Ciência da Computação - Disciplinas Atuais:
+### | Ciência da Computação - Disciplinas Atuais:
 
 * Programação Orientada a Objetos em Java
 * Desenvolvimento Rápido em Pyhton
@@ -16,9 +17,8 @@
 * Cálculo Diferencial e Integral
 
 ---------------------------------------------------------------------
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false">    <img  alt="LMolinaro01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LMolinaro01?cardType=github&theme=ocean-dark&preferLogin=false" /> </a>
   
-##  Outras Linguagens/Tecnologias que já Utilizei:
+##  Outras Linguagens / Tecnologias que já Utilizei:
 
   <img align="center"  height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -41,6 +41,10 @@
 * Programação Estruturada em C
 * Fundamento de Redes de Computadores
 * Segurança da Informação
+
+<a href = "https://linktr.ee/leomolinarodev01"> <img align = "right" width = "120px" height = "30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href = "https://linktr.ee/leomolinarodev01"><img align = "right"  width = "100px" height = "30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
 
 <!--
 <a href="https://github.com/anuraghazra/top-langs">
