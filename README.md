@@ -36,6 +36,8 @@
 ---------------------------------------------------------------------
 ### | Disciplinas Concluídas (Coeficiente de Rendimento: 9,8) :
 
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=synthwave" align = "right" width= "370px"/> </a> -->
+
 * Estrutura de Dados em C
 * Banco de dados
 * Arquitetura de Computadores
