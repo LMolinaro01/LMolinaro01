@@ -49,7 +49,8 @@
 ---------------------------------------------------------------------
 ### | Competências/Certificados:
 
-* AWS Cloud Practitioner Essentials | Computação em Nuvem (Ka Solution)
+* AWS Cloud Practitioner Essentials
+* Computação em Nuvem (Ka Solution)
 * Desenvolvimento de Jogos com C# (Unity)
 * Lógica de Programação (Fundação Bradesco)
 * Fundamentos de TI: Hardware e Software (Fundação Bradesco)
