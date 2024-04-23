@@ -30,7 +30,7 @@
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
-  <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg">
+  <!-- <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg"> -->
   
 ---------------------------------------------------------------------
 ### | Disciplinas Concluídas (Coeficiente de Rendimento: 9,8) :
