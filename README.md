@@ -47,7 +47,7 @@
 * Segurança da Informação
 
 ---------------------------------------------------------------------
-### | Competências/Certificados:
+### | Competências / Certificados:
 
 * AWS Cloud Practitioner Essentials
 * Computação em Nuvem (Ka Solution)
