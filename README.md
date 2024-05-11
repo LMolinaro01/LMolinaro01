@@ -9,7 +9,7 @@
   <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 
 
-### | Ciência da Computação - Disciplinas Atuais:
+### | Disciplinas em Andamento - Ciencia da Computação:
 
 * Programação Orientada a Objetos em Java
 * Desenvolvimento Rápido em Pyhton
