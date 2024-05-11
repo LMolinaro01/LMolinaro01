@@ -7,7 +7,7 @@
 ## Linguagens de Maior Domínio:
 
 <div style="display: inline_block"><br>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">    <img  alt="LMolinaro01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LMolinaro01?cardType=github&theme=dark&preferLogin=false" align = "right" width= "500px" height = "200px"/> </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false">    <img  alt="LMolinaro01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LMolinaro01?cardType=github&theme=ocean-dark&preferLogin=false" align = "right" width= "500px" height = "200px"/> </a>
   <img align="center" height="55" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
@@ -61,15 +61,18 @@
 </div>
 
 --------------------------------------------------------------------- -->
+---
 <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LMolinaro01&theme=tokyonight-duo&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LMolinaro01&theme=ocean-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
 <br>
+
+---
 
 ### | Competências / Certificados:
 
