@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90&size=36&center=true&vCenter=true&width=1000&lines=Leonardo+Molinaro's+Github;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=36&center=true&vCenter=true&width=1000&lines=Leonardo+Molinaro's+Github;)](https://git.io/typing-svg)
 <br>
 <br>
 
@@ -42,7 +42,7 @@
 
 ### | Disciplinas Concluídas (Coeficiente de Rendimento: 9,8) :
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=ocean_dark" align = "right" width= "370px"/> </a> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=ocean_dark&hide_border=true" align = "right" width= "370px"/> </a> 
 
 * Estrutura de Dados em C
 * Banco de dados
@@ -66,7 +66,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LMolinaro01&theme=ocean-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LMolinaro01&theme=ocean-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
