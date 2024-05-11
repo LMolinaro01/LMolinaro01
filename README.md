@@ -11,6 +11,8 @@
   <img align="center" height="55" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+<br>
+<br>
 
 ### | Disciplinas em Andamento:
 
@@ -22,7 +24,7 @@
 ---------------------------------------------------------------------
   
 ### | Linguagens / Tecnologias / Ferramentas que já Utilizei:
-
+<br>
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -51,7 +53,7 @@
 * Programação Estruturada em C
 * Segurança da Informação
 
---------------------------------------------------------------------
+
 <!--<div align="center" >
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/LMolinaro01?chart=3dbar&gap=0.6&scale=3&flatten=2&animation=wave&animation_duration=4&animation_delay=0.15&animation_amplitude=25&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
@@ -59,6 +61,7 @@
 </div>
 
 --------------------------------------------------------------------- -->
+<br>
 
 <div align="center">
   
@@ -66,7 +69,8 @@
 
 </div>
 
----------------------------------------------------------------------
+<br>
+
 ### | Competências / Certificados:
 
 * AWS Cloud Practitioner Essentials
