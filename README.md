@@ -53,14 +53,6 @@
 * Programação Estruturada em C
 * Segurança da Informação
 
-
-<!--<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/LMolinaro01?chart=3dbar&gap=0.6&scale=3&flatten=2&animation=wave&animation_duration=4&animation_delay=0.15&animation_amplitude=25&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
-
-</div>
-
---------------------------------------------------------------------- -->
 ---
 <br>
 
