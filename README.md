@@ -16,7 +16,7 @@
 <br>
 <br>
 
-### | Disciplinas em Andamento:
+### | Estudando no Momento:
 
 * Programação Orientada a Objetos em Java
 * Desenvolvimento Rápido em Pyhton
