@@ -60,7 +60,7 @@
   
 ---------------------------------------------------------------------
 
-### | Disciplinas Concluídas (Coeficiente de Rendimento: 9,8) :
+### | Disciplinas Concluídas :
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=ocean_dark&hide_border=true" align = "right" width= "370px"/> </a> 
 
