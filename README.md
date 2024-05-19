@@ -55,7 +55,10 @@
 * Programação Estruturada em C
 * Segurança da Informação
 
+<!--
+
 ---
+
 <br>
 
 <div align="center">
@@ -64,7 +67,7 @@
 
 </div>
 
-<br>
+<br> -->
 
 ---
 
