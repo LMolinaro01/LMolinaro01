@@ -32,6 +32,8 @@
     <a href="https://github.com/LMolinaro01/One-Piece-Website"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LMolinaro01&repo=One-Piece-Website&theme=react&bg_color=161928&title_color=8A50B2&hide_border=true&icon_color=93D948&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/LMolinaro01/Projetos-e-Exercicios-em-Python"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LMolinaro01&repo=Projetos-e-Exercicios-em-Python&theme=react&bg_color=161928&title_color=8A50B2&hide_border=true&icon_color=93D948&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/LMolinaro01/Exercicios-POO-Java"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LMolinaro01&repo=Exercicios-POO-Java&theme=react&bg_color=161928&title_color=8A50B2&hide_border=true&icon_color=93D948&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/LMolinaro01/Registro-e-Gerenciamento-de-Pacientes"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LMolinaro01&repo=Registro-e-Gerenciamento-de-Pacientes&theme=react&bg_color=161928&title_color=8A50B2&hide_border=true&icon_color=93D948&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/LMolinaro01/Simulador-de-Avaliacoes-em-Python"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LMolinaro01&repo=Simulador-de-Avaliacoes-em-Python&theme=react&bg_color=161928&title_color=8A50B2&hide_border=true&icon_color=93D948&show_icons=true" alt="readme-typing-svg"></a>
   
   </p>
 
