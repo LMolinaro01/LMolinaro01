@@ -24,6 +24,22 @@
 * Cálculo Diferencial e Integral
 
 ---------------------------------------------------------------------
+
+<details open> 
+  <summary><h2> Projetos em Destaque </h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/LMolinaro01/One-Piece-Website"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LMolinaro01&repo=One-Piece-Website&theme=react&bg_color=161928&title_color=8A50B2&hide_border=true&icon_color=93D948&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/LMolinaro01/Projetos-e-Exercicios-em-Python"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LMolinaro01&repo=Projetos-e-Exercicios-em-Python&theme=react&bg_color=161928&title_color=8A50B2&hide_border=true&icon_color=93D948&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/LMolinaro01/Exercicios-POO-Java"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LMolinaro01&repo=Exercicios-POO-Java&theme=react&bg_color=161928&title_color=8A50B2&hide_border=true&icon_color=93D948&show_icons=true" alt="readme-typing-svg"></a>
+  
+  </p>
+
+  <a href="https://github.com/LMolinaro01?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+---------------------------------------------------------------------
+
   
 ### | Linguagens / Tecnologias / Ferramentas que já Utilizei:
 <br>
@@ -54,20 +70,17 @@
 * Desenvolvimento Web (HTML5, CSS, Java Script e Php)
 * Programação Estruturada em C
 * Segurança da Informação
-
-<!--
-
 ---
 
 <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LMolinaro01&theme=ocean-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900&hide_border=true)](https://git.io/streak-stats)
+[![LMolinaro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LMolinaro01&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<br> -->
+<br>
 
 ---
 
