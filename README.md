@@ -78,7 +78,7 @@
 
 <div align="center">
   
-[![LMolinaro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LMolinaro01&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LMolinaro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LMolinaro01&theme=nightowl&bg_color=161928&color=8A50B2&point=93D948&title_color=93D948)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
