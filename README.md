@@ -69,7 +69,7 @@
 * Arquitetura de Computadores
 * Paradigmas de Linguagens de Programação em Python
 * Fundamento de Redes de Computadores
-* Desenvolvimento Web (HTML5, CSS, Java Script, Php, MySQL, Apache)
+* Desenvolvimento Web (HTML5, CSS, Java Script, Php, SQL, Apache)
 * Programação Estruturada em C
 * Segurança da Informação
 ---
