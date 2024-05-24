@@ -88,7 +88,7 @@
 
 ### | Competências / Certificados:
 
-* AWS Cloud Practitioner Essentials
+* AWS Cloud Practitioner Essentials (Amazon AWS)
 * Computação em Nuvem (Ka Solution)
 * Lógica de Programação (Fundação Bradesco)
 * Programação para Internet (Dev. Web, Programação em C, Python) - (UNESA)
