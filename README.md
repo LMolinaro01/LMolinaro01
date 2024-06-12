@@ -73,6 +73,7 @@
 * Programação Estruturada em C
 * Segurança da Informação
 ---
+<!--
 
 <br>
 
@@ -84,7 +85,7 @@
 
 <br>
 
----
+--- -->
 
 ### | Competências / Certificados:
 
