@@ -65,7 +65,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=ocean_dark&hide_border=true" align = "right" width= "370px"/> </a> 
 
 * Estrutura de Dados em C
-* Banco de dados (PostgreSQL)
+* Banco de dados (MySQL)
 * Arquitetura de Computadores
 * Paradigmas de Linguagens de Programação em Python
 * Fundamento de Redes de Computadores
