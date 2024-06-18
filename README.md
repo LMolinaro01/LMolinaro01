@@ -95,7 +95,7 @@
 * Programação para Internet (Dev. Web, Programação em C, Python) - (UNESA)
 * Fundamentos de TI: Hardware e Software (Fundação Bradesco)
 * Introdução a Programação Orientada a Objetos (Fundação Bradesco)
-* Desenvolvimento de Jogos com C# (Unity)
+* Desenvolvimento de Jogos na Unity (C#)
 
 <a target="_blank" href = "https://linktr.ee/leomolinarodev01"> <img alt = "Linkedin Leonardo Molinaro" align = "right" width = "120px" height = "30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a target="_blank" href = "https://linktr.ee/leomolinarodev01"><img alt="Gmail Leonardo Molinaro" align = "right"  width = "100px" height = "30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
