@@ -18,10 +18,10 @@
 
 ### | Estudando no Momento:
 
-* Programação Orientada a Objetos em Java
-* Desenvolvimento Rápido em Pyhton
-* Segurança Cibernética
-* Cálculo Diferencial e Integral
+* Tópicos de Big Data em Python
+* Programação Para Dispositivos Móveis em Android
+* Estatística e Probabilidade
+* Pensamento Computacional
 
 ---------------------------------------------------------------------
 
@@ -73,6 +73,10 @@
 * Desenvolvimento Web (HTML5, CSS, Java Script, Php, Apache, XAMPP)
 * Programação Estruturada em C
 * Segurança da Informação
+* Programação Orientada a Objetos em Java
+* Desenvolvimento Rápido em Pyhton
+* Segurança Cibernética
+* Cálculo Diferencial e Integral
 ---
 <!--
 
