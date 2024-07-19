@@ -66,17 +66,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=ocean_dark&hide_border=true" align = "right" width= "370px"/> </a> 
 
 * Estrutura de Dados em C
-* Banco de dados (MySQL)
-* Arquitetura de Computadores
-* Paradigmas de Linguagens de Programação em Python
-* Fundamento de Redes de Computadores
-* Desenvolvimento Web (HTML5, CSS, Java Script, Php, Apache, XAMPP)
-* Programação Estruturada em C
-* Segurança da Informação
 * Programação Orientada a Objetos em Java
+* Banco de dados (MySQL)
 * Desenvolvimento Rápido em Pyhton
-* Segurança Cibernética
+* Arquitetura de Computadores
+* Desenvolvimento Web (HTML5, CSS, Java Script, Php, Apache, XAMPP)
+* Paradigmas de Linguagens de Programação em Python
 * Cálculo Diferencial e Integral
+* Fundamento de Redes de Computadores
+* Programação Estruturada em C
+* Segurança Cibernética
+* Segurança da Informação
 ---
 <!--
 
