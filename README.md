@@ -19,9 +19,9 @@
 ### | Estudando no Momento:
 
 * Tópicos de Big Data em Python
-* Programação Para Dispositivos Móveis em Android
 * Estatística e Probabilidade
 * Pensamento Computacional
+* Programação Para Dispositivos Móveis em Android
 
 ---------------------------------------------------------------------
 
