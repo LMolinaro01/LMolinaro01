@@ -18,8 +18,8 @@
 
 ### | Estudando no Momento:
 
-* Tópicos de Big Data em Python
 * Estatística e Probabilidade
+* Aplic. de Cloud, Iot e Indústria 4.0 em Python
 * Pensamento Computacional
 * Programação Para Dispositivos Móveis em Android
 
