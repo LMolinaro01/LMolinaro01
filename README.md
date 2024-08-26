@@ -6,15 +6,6 @@
 
 ---
 
-### | Language Selection:
-
-[![Portuguese](https://img.shields.io/badge/Portuguese-0C6CF2?style=for-the-badge&logoColor=white)](https://github.com/LMolinaro01/README-pt)
-[![English](https://img.shields.io/badge/English-0C6CF2?style=for-the-badge&logoColor=white)](https://github.com/LMolinaro01/README-en)
-<br>
-<br>
-
----
-
 ### | Most Proficient Languages:
 
 <div style="display: inline_block"><br>
