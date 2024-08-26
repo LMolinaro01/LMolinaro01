@@ -6,7 +6,16 @@
 
 ---
 
-### | Linguagens de Maior Domínio:
+### | Language Selection:
+
+[![Portuguese](https://img.shields.io/badge/Portuguese-0C6CF2?style=for-the-badge&logoColor=white)](https://github.com/LMolinaro01/README-pt)
+[![English](https://img.shields.io/badge/English-0C6CF2?style=for-the-badge&logoColor=white)](https://github.com/LMolinaro01/README-en)
+<br>
+<br>
+
+---
+
+### | Most Proficient Languages:
 
 <div style="display: inline_block"><br>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700">    <img  alt="LMolinaro01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LMolinaro01?cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700"" align = "right" width= "500px" height = "200px"/> </a>
@@ -16,17 +25,17 @@
 <br>
 <br>
 
-### | Estudando no Momento:
+### | Currently Studying:
 
-* Estatística e Probabilidade
-* Aplic. de Cloud, Iot e Indústria 4.0 em Python
-* Pensamento Computacional
-* Programação Para Dispositivos Móveis em Android
+* Statistics and Probability
+* Cloud Applications, IoT, and Industry 4.0 in Python
+* Computational Thinking
+* Mobile Programming in Android
 
 ---------------------------------------------------------------------
 
 <details open> 
-  <summary><h2> Projetos em Destaque </h2></summary>
+  <summary><h2> Featured Projects </h2></summary>
 
   <p align="left">
     <a href="https://github.com/LMolinaro01/One-Piece-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LMolinaro01&repo=One-Piece-Website&theme=react&bg_color=161928&title_color=8A50B2&hide_border=true&icon_color=93D948&show_icons=true" alt="readme-typing-svg"></a>
@@ -44,7 +53,7 @@
 ---------------------------------------------------------------------
 
   
-### | Linguagens / Tecnologias / Ferramentas que já Utilizei:
+### | Languages / Technologies / Tools I Have Used:
 <br>
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt = "Arduino">
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -64,22 +73,22 @@
   
 ---------------------------------------------------------------------
 
-### | Disciplinas Concluídas (Graduação):
+### | Completed Courses (Undergraduate):
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmolinaro01&hide_progress=true&theme=ocean_dark&hide_border=true" align = "right" width= "370px"/> </a> 
 
-* Estrutura de Dados em C
-* Programação Orientada a Objetos em Java
-* Banco de dados (MySQL)
-* Desenvolvimento Rápido em Pyhton
-* Arquitetura de Computadores
-* Desenvolvimento Web (HTML5, CSS, Java Script, Php, Apache, XAMPP)
-* Paradigmas de Linguagens de Programação em Python
-* Cálculo Diferencial e Integral
-* Fundamento de Redes de Computadores
-* Programação Estruturada em C
-* Segurança Cibernética
-* Segurança da Informação
+* Data Structures in C
+* Object-Oriented Programming in Java
+* Databases (MySQL)
+* Rapid Development in Python
+* Computer Architecture
+* Web Development (HTML5, CSS, JavaScript, PHP, Apache, XAMPP)
+* Programming Language Paradigms in Python
+* Differential and Integral Calculus
+* Fundamentals of Computer Networks
+* Structured Programming in C
+* Cybersecurity
+* Information Security
 ---
 <!--
 
@@ -95,20 +104,19 @@
 
 --- -->
 
-### | Competências / Certificados:
+### | Skills / Certifications:
 
 * AWS Cloud Practitioner Essentials (Amazon AWS)
 * Introduction to IoT (Cisco Networking Academy)
-* Computação em Nuvem (Ka Solution)
-* Lógica de Programação (Fundação Bradesco)
-* Programação para Internet (Dev. Web, Programação em C, Python) - (UNESA)
-* Fundamentos de TI: Hardware e Software (Fundação Bradesco)
-* Introdução a Programação Orientada a Objetos (Fundação Bradesco)
-* Desenvolvimento de Jogos em C# (Unity)
+* Cloud Computing (Ka Solution)
+* Programming Logic (Fundação Bradesco)
+* Internet Programming (Web Dev, C Programming, Python) - (UNESA)
+* IT Fundamentals: Hardware and Software (Fundação Bradesco)
+* Introduction to Object-Oriented Programming (Fundação Bradesco)
+* Game Development in C# (Unity)
 
-<a target="_blank" href = "https://linktr.ee/leomolinarodev01"> <img alt = "Linkedin Leonardo Molinaro" align = "right" width = "120px" height = "30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a target="_blank" href = "https://linktr.ee/leomolinarodev01"> <img alt = "LinkedIn Leonardo Molinaro" align = "right" width = "120px" height = "30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a target="_blank" href = "https://linktr.ee/leomolinarodev01"><img alt="Gmail Leonardo Molinaro" align = "right"  width = "100px" height = "30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 </div>
-
