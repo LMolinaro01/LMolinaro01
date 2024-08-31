@@ -19,9 +19,9 @@
 ### | Currently Studying:
 
 * Statistics and Probability
-* Cloud Applications, IoT, and Industry 4.0 in Python
 * Computational Thinking
 * Mobile Programming in Android
+* Cloud Applications, IoT, and Industry 4.0 in Python
 
 ---------------------------------------------------------------------
 
