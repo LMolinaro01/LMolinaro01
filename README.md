@@ -107,8 +107,8 @@
 * Introduction to Object-Oriented Programming (Fundação Bradesco)
 * Game Development in C# (Unity)
 
-<img alt = "introduction-to-ioto" width = "105px" src="https://github.com/user-attachments/assets/8c3c2422-72af-4986-af60-5b1a1d0aa588"/>
-<img alt = "computer-hardware-basics" width = "105px" src="https://github.com/user-attachments/assets/7e84ac1d-5811-4636-a0f6-3907a48902e1"/>
+<img alt = "introduction-to-ioto" width = "90px" src="https://github.com/user-attachments/assets/8c3c2422-72af-4986-af60-5b1a1d0aa588"/>
+<img alt = "computer-hardware-basics" width = "90px" src="https://github.com/user-attachments/assets/7e84ac1d-5811-4636-a0f6-3907a48902e1"/>
 
 
 
