@@ -96,6 +96,8 @@
 --- -->
 
 ### | Skills / Certifications:
+<img alt = "introduction-to-ioto" align = "right" width = "100px" src="https://github.com/user-attachments/assets/8c3c2422-72af-4986-af60-5b1a1d0aa588"/>
+<img alt = "computer-hardware-basics" align = "right" width = "100px" src="https://github.com/user-attachments/assets/7e84ac1d-5811-4636-a0f6-3907a48902e1"/>
 
 * AWS Cloud Practitioner Essentials (Amazon AWS)
 * Introduction to IoT (Cisco Networking Academy)
@@ -107,13 +109,11 @@
 * Introduction to Object-Oriented Programming (Fundação Bradesco)
 * Game Development in C# (Unity)
 
-<img alt = "introduction-to-ioto" width = "90px" src="https://github.com/user-attachments/assets/8c3c2422-72af-4986-af60-5b1a1d0aa588"/>
-<img alt = "computer-hardware-basics" width = "90px" src="https://github.com/user-attachments/assets/7e84ac1d-5811-4636-a0f6-3907a48902e1"/>
 
 
 
 <a target="_blank" href = "https://linktr.ee/leomolinarodev01"> <img alt = "LinkedIn Leonardo Molinaro" align = "right" width = "120px" height = "30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a target="_blank" href = "https://linktr.ee/leomolinarodev01"><img alt="Gmail Leonardo Molinaro" align = "right"  width = "100px" height = "30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
