@@ -9,10 +9,10 @@
 ### | Most Proficient Languages:
 
 <div style="display: inline_block"><br>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700">    <img  alt="LMolinaro01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LMolinaro01?cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700"" align = "right" width= "500px" height = "200px"/> </a>
   <img align="center" width="65"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
   <img align="center" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700">    <img  alt="LMolinaro01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LMolinaro01?cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700" align = "right" width= "500px" height = "200px"/> </a>
 <br>
 <br>
 
