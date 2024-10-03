@@ -108,6 +108,7 @@
 * Cloud Computing (Ka Solution)
 * Programming Logic (Fundação Bradesco)
 * Internet Programming (Web Dev, C Programming, Python) - (UNESA)
+* Creating a Project with a Graphical Interface Using Python (Fundação Bradesco)
 * IT Fundamentals: Hardware and Software (Fundação Bradesco)
 * Introduction to Object-Oriented Programming (Fundação Bradesco)
 * Game Development in C# (Unity)
