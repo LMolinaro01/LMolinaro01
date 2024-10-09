@@ -104,17 +104,20 @@
 
 * AWS Cloud Practitioner Essentials (Amazon AWS)
 * Introduction to Responsible AI (Google)
+* Encoder-Decoder Architecture (Google)
 * Introduction to IoT (Cisco Networking Academy)
 * Computer Hardware Basic (Cisco)
-* Cloud Computing (Ka Solution)
 * Programming Logic (Fundação Bradesco)
+  
+<img alt = "AI" align = "right" width = "95px"  src="https://github.com/user-attachments/assets/779852db-d3fb-4ce1-80e2-5dd729a1c0ee"/>
+<img alt = "AI" align = "right" width = "95px"  src="https://github.com/user-attachments/assets/94084c94-6638-4c83-a000-43cbdbdef046"/>
+
+* Cloud Computing (Ka Solution)
 * Internet Programming (Web Dev, C Programming, Python) - (UNESA)
 * Creating a Project with a Graphical Interface Using Python (Fundação Bradesco)
 * IT Fundamentals: Hardware and Software (Fundação Bradesco)
 * Introduction to Object-Oriented Programming (Fundação Bradesco)
 * Game Development in C# (Unity)
-
-
 
 
 <a target="_blank" href = "https://linktr.ee/leomolinarodev01"> <img alt = "LinkedIn Leonardo Molinaro" align = "right" width = "120px" height = "30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
