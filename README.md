@@ -78,8 +78,8 @@
 * Computer Architecture
 * Web Development (HTML5, CSS, JavaScript, PHP, Apache, XAMPP)
 * Programming Language Paradigms in Python
-* Differential and Integral Calculus
 * Structured Programming in C
+* Differential and Integral Calculus
 * Fundamentals of Computer Networks
 * Cybersecurity
 * Information Security
