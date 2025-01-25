@@ -18,10 +18,10 @@
 
 ### | Currently Studying:
 
-* Statistics and Probability
-* Computational Thinking
-* Mobile Programming in Android
-* Cloud Applications, IoT, and Industry 4.0 in Python
+* Quantitative Methods
+* System Modeling in UML
+* Software Engineering
+* Topics in Big Data with Python
 
 ---------------------------------------------------------------------
 
@@ -79,6 +79,10 @@
 * Web Development (HTML5, CSS, JavaScript, PHP, Apache, XAMPP)
 * Programming Language Paradigms in Python
 * Structured Programming in C
+* Statistics and Probability
+* Computational Thinking
+* Mobile Programming in Android
+* Cloud Applications, IoT, and Industry 4.0 in Python
 * Differential and Integral Calculus
 * Fundamentals of Computer Networks
 * Cybersecurity
