@@ -6,7 +6,7 @@
 
 ---
 
-### | Most Proficient Languages:
+### | Main Languages:
 
 <div style="display: inline_block"><br>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700">    <img  alt="LMolinaro01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LMolinaro01?cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700"" align = "right" width= "500px" height = "200px"/> </a>
