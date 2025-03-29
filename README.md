@@ -19,9 +19,9 @@
 ### | Currently Studying:
 
 * Quantitative Methods
+* Topics in Big Data with Python
 * System Modeling in UML
 * Software Engineering
-* Topics in Big Data with Python
 
 ---------------------------------------------------------------------
 
