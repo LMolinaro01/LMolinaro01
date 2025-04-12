@@ -108,7 +108,9 @@
 
 * AWS Cloud Practitioner Essentials (Amazon AWS)
 * Introduction to Responsible AI (Google)
+* Machine Learning Basics (Microsoft Learn)
 * Encoder-Decoder Architecture (Google)
+* Fundamental Concepts of AI (Microsoft Learn)
 * Introduction to IoT (Cisco Networking Academy)
 * Computer Hardware Basic (Cisco)
 * Programming Logic (Fundação Bradesco)
@@ -121,6 +123,7 @@
 * Creating a Project with a Graphical Interface Using Python (Fundação Bradesco)
 * IT Fundamentals: Hardware and Software (Fundação Bradesco)
 * Introduction to Object-Oriented Programming (Fundação Bradesco)
+* General Data Protection Law (LGPD) - (Brazil)
 * Game Development in C# (Unity)
 
 
