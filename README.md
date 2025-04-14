@@ -23,6 +23,7 @@
 * Topics in Big Data with Python
 * System Modeling in UML
 * Software Engineering
+* Data Analysis and Prediction Algorithms with R (HavardX)
 
 ---------------------------------------------------------------------
 
