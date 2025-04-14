@@ -108,9 +108,11 @@
 ### | Skills / Certifications:
 <img alt = "introduction-to-ioto" align = "right" width = "85px" src="https://github.com/user-attachments/assets/8c3c2422-72af-4986-af60-5b1a1d0aa588"/>
 <img alt = "computer-hardware-basics" align = "right" width = "85px" src="https://github.com/user-attachments/assets/7e84ac1d-5811-4636-a0f6-3907a48902e1"/>
+<img alt = "introduction-data-science" align = "right" width = "85px" src="https://github.com/user-attachments/assets/6eac91a0-008d-429d-ba8e-d33ca8de7123"/>
 
 * AWS Cloud Practitioner Essentials (Amazon AWS)
 * Introduction to Responsible AI (Google)
+* Introduction to Data Science (Cisco)
 * Machine Learning Basics (Microsoft Learn)
 * Encoder-Decoder Architecture (Google)
 * Fundamental Concepts of AI (Microsoft Learn)
