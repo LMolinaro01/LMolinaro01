@@ -129,7 +129,8 @@
 * IT Fundamentals: Hardware and Software (Fundação Bradesco)
 * Introduction to Object-Oriented Programming (Fundação Bradesco)
 * General Data Protection Law (LGPD) - (Brazil)
-* Game Development in C# (Unity)
+* 2D Game Development in C# (Unity)
+* 3D Game Development in C# (Unity)
 
 
 <a target="_blank" href = "https://linktr.ee/leomolinarodev01"> <img alt = "LinkedIn Leonardo Molinaro" align = "right" width = "120px" height = "30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
