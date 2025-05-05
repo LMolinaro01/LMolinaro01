@@ -12,7 +12,8 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700">    <img  alt="LMolinaro01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LMolinaro01?cardType=github&theme=ocean-dark&preferLogin=false&Border=DD272700"" align = "right" width= "500px" height = "200px"/> </a>
   <img align="center" width="65"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-  <img align="center"  width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img align="center" height="65" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 
 <br>
 <br>
@@ -52,11 +53,11 @@
 ### | Languages / Technologies / Tools I Have Used:
 <br>
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt = "Arduino">
+  <img align="center"  width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
