@@ -4,7 +4,7 @@
 <br>
 <br>
 
----
+<br>
 
 ### | Main Languages:
 
@@ -26,7 +26,7 @@
 * Software Engineering
 * Data Analysis and Prediction Algorithms with R (HavardX)
 
----------------------------------------------------------------------
+
 
 <details open> 
   <summary><h2> Featured Projects </h2></summary>
@@ -47,7 +47,7 @@
   <a href="https://github.com/LMolinaro01?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
----------------------------------------------------------------------
+
 
   
 ### | Languages / Technologies / Tools I Have Used:
@@ -69,7 +69,7 @@
 
   <!-- <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg"> -->
   
----------------------------------------------------------------------
+
 
 ### | Completed Courses (Undergraduate):
 
@@ -91,7 +91,7 @@
 * Fundamentals of Computer Networks
 * Cybersecurity
 * Information Security
----
+
 <!--
 
 <br>
