@@ -20,12 +20,10 @@
 
 ### | Currently Studying:
 
-* Quantitative Methods
-* Topics in Big Data with Python
-* System Modeling in UML
-* Software Engineering
-* Data Analysis and Prediction Algorithms with R (HavardX)
-
+* Digital Eletronics
+* Multivariable Calculus
+* Graph Algorithms
+* Operating Systems
 
 
 <details open> 
@@ -80,6 +78,9 @@
 * Databases (MySQL)
 * Rapid Development in Python
 * Computer Architecture
+* Topics in Big Data with Python
+* System Modeling in UML
+* Software Engineering
 * Web Development (HTML5, CSS, JavaScript, PHP, Apache, XAMPP)
 * Programming Language Paradigms in Python
 * Structured Programming in C
@@ -89,6 +90,7 @@
 * Cloud Applications, IoT, and Industry 4.0 in Python
 * Differential and Integral Calculus
 * Fundamentals of Computer Networks
+* Quantitative Methods
 * Cybersecurity
 * Information Security
 
