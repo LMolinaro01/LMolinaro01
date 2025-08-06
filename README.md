@@ -131,6 +131,7 @@
 * Creating a Project with a Graphical Interface Using Python (Fundação Bradesco)
 * IT Fundamentals: Hardware and Software (Fundação Bradesco)
 * Introduction to Object-Oriented Programming (Fundação Bradesco)
+* Information Systems Programming - (UNESA)
 * General Data Protection Law (LGPD) - (Brazil)
 * 2D Game Development in C# (Unity)
 * 3D Game Development in C# (Unity)
