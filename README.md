@@ -136,7 +136,6 @@
 * 2D Game Development in C# (Unity)
 * 3D Game Development in C# (Unity)
 
-
 <a target="_blank" href = "https://linktr.ee/leomolinarodev01"> <img alt = "LinkedIn Leonardo Molinaro" align = "right" width = "120px" height = "30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a target="_blank" href = "https://linktr.ee/leomolinarodev01"><img alt="Gmail Leonardo Molinaro" align = "right"  width = "100px" height = "30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
