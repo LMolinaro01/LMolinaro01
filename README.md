@@ -20,10 +20,12 @@
 
 ### | Currently Studying:
 
-* Digital Eletronics
-* Multivariable Calculus
-* Graph Algorithms
+* Formal Languages and Automata
 * Operating Systems
+* Information Systems and Society
+* Computer Network Protocols
+* Mathematical Modeling
+
 
 
 <details open> 
@@ -93,6 +95,12 @@
 * Quantitative Methods
 * Cybersecurity
 * Information Security
+* Digital Eletronics
+* Multivariable Calculus
+* Graph Algorithms
+* Operating Systems
+
+
 
 <!--
 
